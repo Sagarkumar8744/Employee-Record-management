@@ -1,0 +1,15 @@
+
+===================================================Employee Id				1
+===================================================
+
+Full Name				Sagar 
+Father Name				Ashok
+Email Id				S@gmail.com
+Gender				Male
+Designation				IT
+Contact No.				2332323232
+    Salary				100000
+Address				h,n.abc
+
+
+################################################
